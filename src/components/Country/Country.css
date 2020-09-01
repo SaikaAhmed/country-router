@@ -1,0 +1,22 @@
+.country-container{
+    border: 1px solid tomato;
+    margin: 40px;
+    padding: 20px;
+    text-align: center;
+}
+.flag-img{
+    width: 30%;
+    height: 30%;
+}
+
+.click-btn {
+    width: 20%;
+    padding: 10px;
+    background-color: black;
+    border: none;
+    color: white;
+}
+.click-btn:hover {
+    background-color: aqua;
+    color: black;
+}
